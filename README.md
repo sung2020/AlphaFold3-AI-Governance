@@ -29,7 +29,7 @@ This repository includes:
 - FDA, ICH, GCP, GMP, and GxP considerations
 - Patient safety and informed consent
 - Stakeholder and risk analysis
-- AI policy recommendations
+- AI governance and policy recommendations
 
 ## Skills Demonstrated
 
