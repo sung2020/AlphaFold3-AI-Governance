@@ -6,9 +6,7 @@ This is a governance and policy analysis project, not a coding project.
 
 ## Project Summary
 
-AlphaFold3 is an AI model that supports drug discovery by predicting biomolecular structures and interactions. This project examines how AI tools like AlphaFold3 should be governed when used in pharmaceutical research and development.
-
-The main focus is how AI governance can help manage risks related to safety, transparency, clinical trial consent, regulatory gaps, and public trust.
+AlphaFold2 helped establish large-scale AI-based protein structure prediction through the AlphaFold Protein Structure Database. AlphaFold3 builds on this work by supporting predictions of biomolecular structures and interactions relevant to drug discovery. This project examines how AI tools like AlphaFold3 should be governed when used in pharmaceutical research and development.
 
 ## Repository Contents
 
