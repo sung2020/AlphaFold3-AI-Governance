@@ -1,6 +1,6 @@
 # AlphaFold3 AI Governance Project
 
-This repository contains an AI governance case study on the use of AlphaFold3 in drug candidate selection. The project focuses on responsible AI, regulatory oversight, patient safety, informed consent, and stakeholder impact in pharmaceutical drug discovery.
+This repository contains AI governance materials on the use of AlphaFold3 in drug candidate selection. The project focuses on responsible AI, regulatory oversight, patient safety, informed consent, and stakeholder impact in pharmaceutical drug discovery.
 
 This is a governance and policy analysis project, not a coding project.
 
