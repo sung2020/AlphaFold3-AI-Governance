@@ -12,7 +12,7 @@ The main focus is how AI governance can help manage risks related to safety, tra
 
 ## Repository Contents
 
-The `docs/` folder includes:
+This repository includes:
 
 - `AlphaFold3_AI_Governance_Policy_Framework.pdf`  
   Full AI governance policy paper.
